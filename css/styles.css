@@ -1,0 +1,20 @@
+/*Dharma Witt 8954386*/
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: hsla(280, 20%, 70%, 0.8);
+    font: normal normal normal 14px/1.5 Verdana, Arial, Helvatica, sans-serif;
+    padding: 2em;
+
+}
+
+ul{
+    font-size: 15px;
+}
+
+h2{
+    color: #380;
+    font-size: 1.4rem;
+}
+
