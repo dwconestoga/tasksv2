@@ -18,3 +18,45 @@ h2{
     font-size: 1.4rem;
 }
 
+header{
+    background-color: hsl(180, 98%, 18%)
+}
+
+main{
+    float : left;
+    width : 65vw;
+    background-color: hsl(20, 82%, 70%);
+    height: 60vh;
+}
+
+aside{
+    float: right;
+    width : 25vw;
+    background-color: hsl(101, 94%, 13%);
+    height: 60vh;
+}
+footer{
+    background-color: hsl(282, 71%, 43%);
+    clear : both;
+}
+
+.structural{
+    padding : 10px;
+    margin : 10px;
+    border : 2px solid black;
+}
+
+#para1{
+    color : rgb(8, 8, 229);
+}
+#para2{
+    color : rgb(232, 62, 0);
+}
+
+a:hover{
+    color: #09c;
+}
+
+footer p{
+    font-size: .75em;
+}
